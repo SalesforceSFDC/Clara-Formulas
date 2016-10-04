@@ -1,0 +1,1 @@
+AND( ISCHANGED(Status), ISPICKVAL(Status,"Disqualified")AND ISPICKVAL(Disqualified_Status__c, "Rate Watch))
